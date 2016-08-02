@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Salute</string>
+    <string name="click_to_toast">Click to Toast!</string>
+    <string name="hallo">Bonjour my fellow Wine Coneseur! \n \n Allow me to find some fancy beverages for you!</string>
+    <string name="stirring_wine_glass">stirring wine glass</string>
+</resources>

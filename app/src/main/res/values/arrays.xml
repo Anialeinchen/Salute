@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="wein_image_pos">
+        <item>@drawable/pos1</item>
+        <item>@drawable/pos2</item>
+        <item>@drawable/pos3</item>
+        <item>@drawable/pos4</item>
+    </integer-array>
+
+
+</resources>
